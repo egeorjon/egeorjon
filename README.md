@@ -7,10 +7,10 @@ My job is more focussed to the infrastructure and the cloud, than the developmen
 
 
 You can follow me: 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelgeorjon/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmanuelgeorjon)
 
-My blog: ![EG-Blog](https://img.shields.io/static/v1?label=EG-Blog&message=%20Emmanuel%20GEORJON&color=305F72)
+My blog: [![EG-Blog](https://img.shields.io/static/v1?label=EG-Blog&message=%20Emmanuel%20GEORJON&color=305F72)](https://emmanuelgeorjon.com/)
 
 ## 🛠️ Skills
 
